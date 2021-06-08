@@ -1,0 +1,265 @@
+﻿analyte,lab,age,lower_limit,upper_limit
+alanine,benioff,child,200,450
+alanine,benioff,adult,230,510
+Alpha-aminoadipic acid,benioff,child,NA,NA
+Alpha-aminoadipic acid,benioff,adult,NA,NA
+Alpha-amino-N-butyric acid,benioff,child,8,37
+Alpha-amino-N-butyric acid,benioff,adult,15,41
+Arginine,benioff,child,44,120
+Arginine,benioff,adult,13,64
+Asparagine,benioff,child,15,40
+Asparagine,benioff,adult,45,130
+Aspartic acid,benioff,child,0,26
+Aspartic acid,benioff,adult,0,6
+Beta-alanine,benioff,child,0,49
+Beta-alanine,benioff,adult,0,29
+Beta-amino-isobutyric acid,benioff,child,NA,NA
+Beta-amino-isobutyric acid,benioff,adult,NA,NA
+Carnosine,benioff,child,NA,NA
+Carnosine,benioff,adult,NA,NA
+Citrulline,benioff,child,16,32
+Citrulline,benioff,adult,16,55
+Cystine,benioff,child,19,47
+Cystine,benioff,adult,30,65
+Glutamic acid,benioff,child,32,140
+Glutamic acid,benioff,adult,18,98
+Glutamine,benioff,child,420,730
+Glutamine,benioff,adult,390,650
+Glycine,benioff,child,110,240
+Glycine,benioff,adult,170,330
+Histidine,benioff,child,68,120
+Histidine,benioff,adult,26,120
+Hydroxyproline,benioff,child,0,5
+Hydroxyproline,benioff,adult,NA,NA
+Isoleucine,benioff,child,37,140
+Isoleucine,benioff,adult,42,100
+Leucine,benioff,child,70,170
+Leucine,benioff,adult,66,170
+Lysine,benioff,child,120,290
+Lysine,benioff,adult,150,220
+Methionine,benioff,child,13,30
+Methionine,benioff,adult,16,30
+1-methylhistidine,benioff,child,NA,NA
+1-methylhistidine,benioff,adult,NA,NA
+3-methylhistidine,benioff,child,0,52
+3-methylhistidine,benioff,adult,0,64
+Ornithine,benioff,child,44,90
+Ornithine,benioff,adult,27,80
+Phenylalanine,benioff,child,26,86
+Phenylalanine,benioff,adult,41,68
+Phosphoserine,benioff,child,0,12
+Phosphoserine,benioff,adult,0,12
+Phosphoethanolamine,benioff,child,0,12
+Phosphoethanolamine,benioff,adult,0,55
+Proline,benioff,child,130,290
+Proline,benioff,adult,110,360
+Serine,benioff,child,93,150
+Serine,benioff,adult,56,140
+Taurine,benioff,child,11,120
+Taurine,benioff,adult,45,130
+Threonine,benioff,child,67,150
+Threonine,benioff,adult,45,130
+Tyrosine,benioff,child,26,110
+Tyrosine,benioff,adult,45,74
+Valine,benioff,child,160,350
+Valine,benioff,adult,150,310
+ethanolamine,benioff,child,NA,NA
+ethanolamine,benioff,adult,NA,NA
+Sarcosine,benioff,child,NA,NA
+Sarcosine,benioff,adult,NA,NA
+Argininosuccinic Acid,benioff,child,NA,NA
+Argininosuccinic Acid,benioff,adult,NA,NA
+Anserine,benioff,child,NA,NA
+Anserine,benioff,adult,NA,NA
+Homocitruline,benioff,child,NA,NA
+Homocitruline,benioff,adult,NA,NA
+g-Amino-n-butyric Acid,benioff,child,NA,NA
+g-Amino-n-butyric Acid,benioff,adult,NA,NA
+Beta-Aminoisobutyric Acid,benioff,child,NA,NA
+Beta-Aminoisobutyric Acid,benioff,adult,NA,NA
+Hydroxylysine,benioff,child,NA,NA
+Hydroxylysine,benioff,adult,NA,NA
+Cystathionine,benioff,child,NA,NA
+Cystathionine,benioff,adult,NA,NA
+Tryptophan,benioff,child,NA,NA
+Tryptophan,benioff,adult,NA,NA
+Alloisoleucine,benioff,child,NA,NA
+Alloisoleucine,benioff,adult,NA,NA
+alanine,mayo,child,139,474
+alanine,mayo,adult,200,579
+Alpha-aminoadipic acid,mayo,child,0,4
+Alpha-aminoadipic acid,mayo,adult,0,3
+Alpha-amino-N-butyric acid,mayo,child,7,28
+Alpha-amino-N-butyric acid,mayo,adult,9,37
+Arginine,mayo,child,29,134
+Arginine,mayo,adult,32,120
+Asparagine,mayo,child,25,91
+Asparagine,mayo,adult,37,92
+Aspartic acid,mayo,child,2,20
+Aspartic acid,mayo,adult,0,7
+Beta-alanine,mayo,child,0,28
+Beta-alanine,mayo,adult,0,29
+Beta-amino-isobutyric acid,mayo,child,0,9
+Beta-amino-isobutyric acid,mayo,adult,0,5
+Carnosine,mayo,child,0,13
+Carnosine,mayo,adult,0,1
+Citrulline,mayo,child,9,38
+Citrulline,mayo,adult,17,46
+Cystine,mayo,child,2,32
+Cystine,mayo,adult,3,95
+Glutamic acid,mayo,child,31,202
+Glutamic acid,mayo,adult,13,113
+Glutamine,mayo,child,316,1020
+Glutamine,mayo,adult,371,957
+Glycine,mayo,child,111,426
+Glycine,mayo,adult,126,490
+Histidine,mayo,child,10,116
+Histidine,mayo,adult,39,123
+Hydroxyproline,mayo,child,8,61
+Hydroxyproline,mayo,adult,4,29
+Isoleucine,mayo,child,31,105
+Isoleucine,mayo,adult,36,107
+Leucine,mayo,child,48,175
+Leucine,mayo,adult,68,183
+Lysine,mayo,child,49,204
+Lysine,mayo,adult,103,255
+Methionine,mayo,child,11,35
+Methionine,mayo,adult,4,44
+1-methylhistidine,mayo,child,0,11
+1-methylhistidine,mayo,adult,0,28
+3-methylhistidine,mayo,child,0,1
+3-methylhistidine,mayo,adult,2,9
+Ornithine,mayo,child,20,130
+Ornithine,mayo,adult,38,130
+Phenylalanine,mayo,child,28,80
+Phenylalanine,mayo,adult,35,80
+Phosphoserine,mayo,child,0,109
+Phosphoserine,mayo,adult,0,18
+Phosphoethanolamine,mayo,child,0,6
+Phosphoethanolamine,mayo,adult,0,12
+Proline,mayo,child,85,303
+Proline,mayo,adult,97,368
+Serine,mayo,child,69,271
+Serine,mayo,adult,63,187
+Taurine,mayo,child,37,177
+Taurine,mayo,adult,42,156
+Threonine,mayo,child,47,237
+Threonine,mayo,adult,85,231
+Tyrosine,mayo,child,26,115
+Tyrosine,mayo,adult,31,90
+Valine,mayo,child,83,300
+Valine,mayo,adult,136,309
+ethanolamine,mayo ,child,0,70
+ethanolamine,mayo ,adult,0,67
+Sarcosine,mayo,child,0,5
+Sarcosine,mayo,adult,0,5
+Argininosuccinic Acid,mayo,child,0,2
+Argininosuccinic Acid,mayo,adult,0,2
+Anserine,mayo,child,0,1
+Anserine,mayo,adult,0,1
+Homocitruline,mayo,child,0,5
+Homocitruline,mayo,adult,0,2
+g-Amino-n-butyric Acid,mayo,child,0,4
+g-Amino-n-butyric Acid,mayo,adult,0,2
+Beta-Aminoisobutyric Acid,mayo,child,0,9
+Beta-Aminoisobutyric Acid,mayo,adult,0,5
+Hydroxylysine,mayo,child,0,4
+Hydroxylysine,mayo,adult,0,2
+Cystathionine,mayo,child,0,2
+Cystathionine,mayo,adult,0,5
+Tryptophan,mayo,child,17,75
+Tryptophan,mayo,adult,29,77
+Alloisoleucine,mayo,child,0,2
+Alloisoleucine,mayo,adult,0,5
+alanine,labcorp,child,121,571
+alanine,labcorp,adult,124.8,564.2
+Alpha-aminoadipic acid,labcorp,child,0,2.9
+Alpha-aminoadipic acid,labcorp,adult,0,2.2
+Alpha-amino-N-butyric acid,labcorp,child,4.5,31.6
+Alpha-amino-N-butyric acid,labcorp,adult,5.4,34.5
+Arginine,labcorp,child,19.4,171
+Arginine,labcorp,adult,32,150
+Asparagine,labcorp,child,20.2,106.6
+Asparagine,labcorp,adult,29.5,84.5
+Aspartic acid,labcorp,child,1.8,32.3
+Aspartic acid,labcorp,adult,0.9,7.4
+Beta-alanine,labcorp,child,1.6,11.8
+Beta-alanine,labcorp,adult,1.1,9
+Beta-amino-isobutyric acid,labcorp,child,NA,NA
+Beta-amino-isobutyric acid,labcorp,adult,NA,NA
+Carnosine,labcorp,child,NA,NA
+Carnosine,labcorp,adult,NA,NA
+Citrulline,labcorp,child,4.7,44.3
+Citrulline,labcorp,adult,13.7,63.2
+Cystine,labcorp,child,6.1,38.7
+Cystine,labcorp,adult,13.5,60.2
+Glutamic acid,labcorp,child,38,398.9
+Glutamic acid,labcorp,adult,18.1,155.9
+Glutamine,labcorp,child,264,835
+Glutamine,labcorp,adult,332,754
+Glycine,labcorp,child,145.6,518.9
+Glycine,labcorp,adult,132,467
+Histidine,labcorp,child,42.9,115.2
+Histidine,labcorp,adult,47.2,98.5
+Hydroxyproline,labcorp,child,19,115.6
+Hydroxyproline,labcorp,adult,4.7,35.2
+Isoleucine,labcorp,child,19.3,127.4
+Isoleucine,labcorp,adult,27.7,112.8
+Leucine,labcorp,child,44,224.5
+Leucine,labcorp,adult,54.9,205
+Lysine,labcorp,child,83.2,334.2
+Lysine,labcorp,adult,94,278
+Methionine,labcorp,child,13.9,68.7
+Methionine,labcorp,adult,12.7,41.1
+1-methylhistidine,labcorp,child,NA,NA
+1-methylhistidine,labcorp,adult,NA,NA
+3-methylhistidine,labcorp,child,NA,NA
+3-methylhistidine,labcorp,adult,NA,NA
+Ornithine,labcorp,child,30.5,205.7
+Ornithine,labcorp,adult,30.5,131.4
+Phenylalanine,labcorp,child,28.5,108.2
+Phenylalanine,labcorp,adult,33.6,101.9
+Phosphoserine,labcorp,child,NA,NA
+Phosphoserine,labcorp,adult,NA,NA
+Phosphoethanolamine,labcorp,child,NA,NA
+Phosphoethanolamine,labcorp,adult,NA,NA
+Proline,labcorp,child,84.3,417
+Proline,labcorp,adult,84.8,352.5
+Serine,labcorp,child,60.6,236.2
+Serine,labcorp,adult,48.7,145.2
+Taurine,labcorp,child,28.7,238.4
+Taurine,labcorp,adult,29.2,132.3
+Threonine,labcorp,child,60.7,326.8
+Threonine,labcorp,adult,67.8,211.6
+Tyrosine,labcorp,child,21.4,186.9
+Tyrosine,labcorp,adult,31.1,118.1
+Valine,labcorp,child,73.5,309.4
+Valine,labcorp,adult,102.6,345.4
+ethanolamine,labcorp,child,NA,NA
+ethanolamine,labcorp,adult,NA,NA
+Sarcosine,labcorp,child,0,4.5
+Sarcosine,labcorp,adult,0,4
+Argininosuccinic Acid,labcorp,child,NA,NA
+Argininosuccinic Acid,labcorp,adult,NA,NA
+Anserine,labcorp,child,NA,NA
+Anserine,labcorp,adult,NA,NA
+Homocitruline,labcorp,child,0,7
+Homocitruline,labcorp,adult,0,1.7
+g-Amino-n-butyric Acid,labcorp,child,0,0.6
+g-Amino-n-butyric Acid,labcorp,adult,0,0.3
+Beta-Aminoisobutyric Acid,labcorp,child,0.1,9.6
+Beta-Aminoisobutyric Acid,labcorp,adult,0.3,4.3
+Cystathionine,labcorp,child,NA,NA
+Cystathionine,labcorp,adult,NA,NA
+Tryptophan,labcorp,child,NA,NA
+Tryptophan,labcorp,adult,NA,NA
+Alloisoleucine,labcorp,child,0.3,2
+Alloisoleucine,labcorp,adult,0.4,3.2
+Homocystine,labcorp,child,0,0.1
+Homocystine,labcorp,adult,0,0.1
+Homocystine,benioff,child,NA,NA
+Homocystine,benioff,adult,NA,NA
+Homocystine,mayo,child,NA,NA
+Homocystine,mayo,adult,NA,NA
+Hydroxylysine,labcorp,child,0.4,3
+Hydroxylysine,labcorp,adult,0.1,0.8
